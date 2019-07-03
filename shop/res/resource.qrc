@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/rec">
+        <file>cart.svg</file>
+        <file>list.svg</file>
+        <file>resource.qrc</file>
+        <file>settings.svg</file>
+    </qresource>
+</RCC>

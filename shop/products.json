@@ -1,0 +1,29 @@
+{
+	“products”: [
+		{
+			“name”: “Chleb”,
+			“price”: 450,
+			“weight”: 0.5
+		},
+		{
+			“name”: “Piwo”,
+			“price”: 350,
+			“weight”: 0.5
+		},
+		{
+			“name”: “Jajka”,
+			“price”: 500,
+			“weight”: 1.0
+		},
+		{
+			“name”: “Mleko”,
+			“price”: 600,
+			“weight”: 1.5
+		},
+		{
+			“name”: “Kawa”,
+			“price”: 800,
+			“weight”: 1.7
+		}
+	}
+}
